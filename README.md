@@ -1,0 +1,2 @@
+# TheUnusualEmojiGenerator-Fanmade
+*二次創作です。* TUSBDiscord絵文字を揃えようと思ったけど面倒だったので自動生成してやろうとプログラムを作ったところでこれを配布すればいいことに気が付きGithubで配布することにした奴です。
